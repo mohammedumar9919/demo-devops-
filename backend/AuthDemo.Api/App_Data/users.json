@@ -1,0 +1,14 @@
+﻿{
+  "users": [
+    {
+      "role": "admin",
+      "passwordHash": "$2a$11$ErL8Mj37XyQf9c1tmPxMUulKQX7VV.a0OZNZbogXsKjLXTG/qBE3G",
+      "username": "admin"
+    },
+    {
+      "username": "user1",
+      "passwordHash": "$2a$11$05NF9BMnkx8.e.E8GhGe8egcdvjyBmeOpNgSBYlMBmfMHQt50Mu52",
+      "role": "user"
+    }
+  ]
+}
